@@ -1,31 +1,33 @@
 ---
-layout: page
-title: "About"
-description: "We help build app services in the cloud"
-header-img: "img/about-bg.jpg"
+layout: post
+title:  "Lift Off!"
+author: "Jeff McCune"
+date:   2015-10-06 13:39:00
+categories: update company
 ---
 
-Optimized infrastructure for modern applications
-=
+3.. 2.. 1.. Lift Off!
+---
 
-Applications need to be delivered faster than ever before.  A competitive
-marketplace demands new features and functionality, which need to be delivered
-as quickly as possible.  Security events require delivery of prompt and
-effective solutions.  Open Infrastructure Services provides consulting services
-and solutions focused on delivering applications more quickly, reliably and
-predictably.
+<a href="https://www.flickr.com/photos/spacexphotos/16698990175/in/photostream/" target="_blank">
+<img src="/img/lift-off_k.jpg" width="*"/>
+</a>
 
-![Jeff McCune][avatar]
+I'm pleased to announce Open Infrastructure Services, LLC is open for business!
+Here's some information about myself and the services I have available.  Please
+[email][email-me] me with any questions about how I can help.
 
 Open Infrastructure Services is founded by me, [Jeff McCune][jeff], a veteran
 systems administrator and software developer with over 15 years of experience.
-Before starting my consulting business I was at Puppet Labs as a software
+Before starting my consulting business I was at [Puppet Labs][puppetlabs] as a software
 developer working on [Puppet][puppet], [Facter][facter], [Puppet
 Server][puppet-server], and other internal tools like
 [crossfader](https://github.com/puppetlabs/crossfader).  Prior to that, I was a
 professional services engineer at Puppet Labs, traveling the world working with
 customers and the open source community on matters of system architecture,
 availability, security, and continuous delivery workflows.
+
+![Jeff McCune][avatar]
 
 While traveling for Puppet Labs, I also co-authored [Pro Puppet][pro-puppet], the
 best-selling book about how to quickly get started and then scale Puppet toward
@@ -58,7 +60,11 @@ from delivering your applications.
 [puppet]: http://github.com/puppetlabs/puppet
 [facter]: http://github.com/puppetlabs/facter
 [puppet-server]: http://github.com/puppetlabs/puppet-server
+[puppetlabs]: https://puppetlabs.com
+[pro-puppet]: http://www.amazon.com/Pro-Puppet-James-Turnbull/dp/1430230592
 [pro-puppet-img]: /img/pro-puppet.jpg
 [ntst]: http://www.ntst.com
 [splunk]: http://www.splunk.com
 [contact]: /contact/
+
+[email-me]: mailto://jeff@openinfrastructure.co
