@@ -16,6 +16,7 @@ facebook_username: mccune.jeff
 linkedin_username: jeffmccune
 
 # Build settings
+gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
