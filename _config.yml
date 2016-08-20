@@ -9,7 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Specializing in Puppet, service oriented architecture, agile methodologies,
   and DevOps practices.
 baseurl: ""
-url: "http://www.openinfrastructure.co"
+url: "https://www.openinfrastructure.co"
 twitter_username: "0xEFF"
 github_username: jeffmccune
 facebook_username: mccune.jeff
